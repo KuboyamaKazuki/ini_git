@@ -1,1 +1,3 @@
-giy
+gitの勉強
+・git add
+・git commit 
